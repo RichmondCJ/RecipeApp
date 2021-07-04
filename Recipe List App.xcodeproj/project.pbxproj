@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9A439F242687B4D700733FA6 /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A439F232687B4D700733FA6 /* RecipeTabView.swift */; };
+		9A439F7726923E8100733FA6 /* Ingredient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A439F7626923E8100733FA6 /* Ingredient.swift */; };
 		9A5378FD263D5E48008240FC /* Recipe_List_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5378FC263D5E48008240FC /* Recipe_List_App.swift */; };
 		9A5378FF263D5E48008240FC /* RecipeListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5378FE263D5E48008240FC /* RecipeListView.swift */; };
 		9A537901263D5E53008240FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A537900263D5E53008240FC /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		9A439F232687B4D700733FA6 /* RecipeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTabView.swift; sourceTree = "<group>"; };
+		9A439F7626923E8100733FA6 /* Ingredient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ingredient.swift; sourceTree = "<group>"; };
 		9A5378F9263D5E48008240FC /* Recipe List App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Recipe List App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A5378FC263D5E48008240FC /* Recipe_List_App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe_List_App.swift; sourceTree = "<group>"; };
 		9A5378FE263D5E48008240FC /* RecipeListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeListView.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 			isa = PBXGroup;
 			children = (
 				9A537912263D6014008240FC /* Recipe.swift */,
+				9A439F7626923E8100733FA6 /* Ingredient.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 				9A5D2ADD266D44900070DB9C /* RecipeDetailView.swift in Sources */,
 				9A537915263D6151008240FC /* RecipeModel.swift in Sources */,
 				9A5378FF263D5E48008240FC /* RecipeListView.swift in Sources */,
+				9A439F7726923E8100733FA6 /* Ingredient.swift in Sources */,
 				9A5378FD263D5E48008240FC /* Recipe_List_App.swift in Sources */,
 				9A537917263D6275008240FC /* DataService.swift in Sources */,
 				9A439F242687B4D700733FA6 /* RecipeTabView.swift in Sources */,
